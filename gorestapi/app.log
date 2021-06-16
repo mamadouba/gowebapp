@@ -1,0 +1,905 @@
+2020/08/17 15:01:08.076000 INF Running Server :9000
+2020/08/17 15:03:07.485339 INF user=anonymous host=localhost:9000 method=POST url=/auth/register status=400 time=12.0163929s
+2020/08/17 18:45:46.872532 INF Close database
+2020/08/17 18:45:46.873498 INF Shutdown server
+2020/08/17 18:45:50.158648 INF Running Server :9000
+2020/08/17 18:48:07.408676 INF user=anonymous host=localhost:9000 method=GET url=/auth/resetpwdreq/foo status=401 time=3.989ms
+2020/08/17 18:49:49.585138 INF user=anonymous host=localhost:9000 method=GET url=/auth/resetpwdreq/foo status=401 time=0s
+2020/08/17 18:56:30.041419 INF Close database
+2020/08/17 18:56:30.046405 INF Shutdown server
+2020/08/17 18:56:33.819461 INF Running Server :9000
+2020/08/17 18:56:50.635459 INF user=anonymous host=localhost:9000 method=GET url=/auth/resetpwdreq/foo@gmail.com status=200 time=10.9717ms
+2020/08/17 20:03:43.823701 INF user=anonymous host=localhost:9000 method=GET url=/auth/resetpwdreq/mamadoubo.barry@gmail.com status=200 time=8.977ms
+2020/08/17 20:03:56.099746 INF Close database
+2020/08/17 20:03:56.099746 INF Shutdown server
+2020/08/17 20:04:00.416622 INF Running Server :9000
+2020/08/17 20:04:10.613271 INF user=anonymous host=localhost:9000 method=GET url=/auth/resetpwdreq/mamadoubo.barry@gmail.com status=200 time=4.9982ms
+2020/08/17 20:04:10.817460 INF Mail sent
+2020/08/17 20:09:41.642833 INF user=anonymous host=localhost:9000 method=POST url=/auth/resetpwd/h0h3fhfUVuS0jZ9uVbhV4vC6AWX40IVU status=200 time=69.3802ms
+2020/08/17 20:14:19.421131 INF user=anonymous host=localhost:9000 method=POST url=/auth/resetpwd/h0h3fhfUVuS0jZ9uVbhV4vC6AWX40IVU status=400 time=0s
+2020/08/18 11:53:49.492265 INF Close database
+2020/08/18 11:53:49.494259 INF Shutdown server
+2020/08/18 11:53:57.579084 INF Running Server :9000
+2020/08/18 12:14:01.786951 INF Close database
+2020/08/18 12:14:01.792935 INF Shutdown server
+2020/08/18 12:14:04.834900 INF Running Server :9000
+2020/08/18 12:14:08.302917 INF user=anonymous host=localhost:9000 method=POST url=/auth/login status=200 time=86.7681ms
+2020/08/18 12:14:51.410093 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=1.996ms
+2020/08/18 12:17:48.068896 INF Close database
+2020/08/18 12:17:48.069892 INF Shutdown server
+2020/08/18 12:17:51.559333 INF Running Server :9000
+2020/08/18 12:17:54.616780 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=4.9858ms
+2020/08/18 16:28:20.052193 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=401 time=1.9951ms
+2020/08/18 16:30:22.340667 INF user=anonymous host=localhost:9000 method=POST url=/auth/login status=200 time=215.4246ms
+2020/08/18 16:30:39.635531 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=1.9953ms
+2020/08/18 16:30:51.511880 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=1.9944ms
+2020/08/18 16:31:13.228519 INF Close database
+2020/08/18 16:31:13.228519 INF Shutdown server
+2020/08/18 16:31:16.313291 INF Running Server :9000
+2020/08/18 16:31:18.554315 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=3.9905ms
+2020/08/18 16:32:02.347264 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=10.9709ms
+2020/08/18 16:32:03.750520 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=7.9776ms
+2020/08/18 16:33:47.195425 INF Close database
+2020/08/18 16:33:47.196422 INF Shutdown server
+2020/08/18 16:33:50.425799 INF Running Server :9000
+2020/08/18 16:33:52.854318 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=8.9779ms
+2020/08/18 17:16:15.134974 INF Close database
+2020/08/18 17:16:15.134974 INF Shutdown server
+2020/08/18 17:16:18.408244 INF Running Server :9000
+2020/08/18 17:16:24.565073 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=401 time=0s
+2020/08/18 17:16:34.403642 INF user=anonymous host=localhost:9000 method=POST url=/auth/login status=200 time=74.802ms
+2020/08/18 19:41:22.893779 INF Close database
+2020/08/18 19:41:22.899738 INF Shutdown server
+2020/08/18 19:41:25.835507 INF Running Server :9000
+2020/08/18 19:41:31.621259 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=401 time=997.4µs
+2020/08/19 11:36:24.951640 INF Close database
+2020/08/19 11:36:24.953635 INF Shutdown server
+2020/08/19 11:36:41.380537 INF Go REST Api Application
+2020/08/19 11:36:41.466306 INF Connect to database
+2020/08/19 11:36:41.596958 INF Running Server :9000
+2020/08/19 12:08:21.034199 INF Close database
+2020/08/19 12:08:21.035198 INF Shutdown server
+2020/08/19 12:08:24.684415 INF Start Application
+2020/08/19 12:08:24.768191 INF Connect to database
+2020/08/19 12:08:24.894852 INF Running Server :9000
+2020/08/19 20:09:35.264489 INF Close database
+2020/08/19 20:09:35.266452 INF Shutdown server
+2020/08/19 20:09:38.673145 INF Start Application
+2020/08/19 20:09:38.753901 INF Connect to database
+2020/08/19 20:09:38.882572 INF Running Server :9000
+2020/08/19 20:09:46.397174 INF user=anonymous host=localhost:9000 method=POST url=/auth/login status=200 time=188.2633ms
+2020/08/19 20:10:05.489426 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=1.9946ms
+2020/08/19 20:10:51.677667 INF Close database
+2020/08/19 20:10:51.678663 INF Shutdown server
+2020/08/19 20:10:54.264208 INF Start Application
+2020/08/19 20:10:54.347983 INF Connect to database
+2020/08/19 20:10:54.471651 INF Running Server :9000
+2020/08/19 20:10:57.738716 INF user=anonymous host=localhost:9000 method=GET url=/users/ status=200 time=3.0183ms
+2020/08/20 10:56:24.555608 INF Close database
+2020/08/20 10:56:24.556606 INF Shutdown server
+2020/08/20 10:56:33.843525 INF Start Application
+2020/08/20 10:56:33.927301 INF Connect to database
+2020/08/20 10:56:34.057952 INF Running Server :9000
+2020/08/20 10:56:45.887546 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=996.9µs size=43
+2020/08/20 10:57:13.421076 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=203.4544ms size=258
+2020/08/20 10:57:29.524036 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=5.9837ms size=17093
+2020/08/20 10:58:46.666984 INF Close database
+2020/08/20 10:58:46.666984 INF Shutdown server
+2020/08/20 10:58:54.010611 INF Start Application
+2020/08/20 10:58:54.096381 INF Connect to database
+2020/08/20 10:58:54.220051 INF Running Server :9000
+2020/08/20 10:59:01.563492 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=4.9872ms size=17093
+2020/08/20 22:41:19.481184 INF Close database
+2020/08/20 22:41:19.485174 INF Shutdown server
+2020/08/20 22:41:22.292804 INF Start Application
+2020/08/20 22:41:22.387517 INF Connect to database
+2020/08/20 22:41:22.527258 INF Running Server :9000
+2020/08/20 22:41:36.934841 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=997.2µs bytes=43
+2020/08/21 18:02:56.063894 INF Close database
+2020/08/21 18:02:56.070902 INF Shutdown server
+2020/08/21 18:25:40.311659 INF Start Application
+2020/08/21 18:25:40.392443 INF Connect to database
+2020/08/21 18:25:40.524125 INF Running Server :9000
+2020/08/21 18:25:59.041129 INF user=- host=localhost:9000 method=GET url=/users/ status=200 time=4.986ms bytes=17093
+2020/08/21 18:26:03.373437 INF user=- host=localhost:9000 method=GET url=/users/ status=200 time=1.994ms bytes=17093
+2020/08/21 18:26:04.314524 INF user=- host=localhost:9000 method=GET url=/users/ status=200 time=1.9948ms bytes=17093
+2020/08/21 18:27:02.143017 INF user=- host=localhost:9000 method=GET url=/users/ status=200 time=2.9922ms bytes=17093
+2020/08/21 18:27:05.503911 INF user=- host=localhost:9000 method=GET url=/users/ status=200 time=2.9908ms bytes=17093
+2020/08/21 19:44:01.813426 INF Close database
+2020/08/21 19:44:01.813426 INF Shutdown server
+2020/08/21 19:45:07.386646 INF Start Application
+2020/08/21 19:45:07.468427 INF Connect to database
+2020/08/21 19:45:07.590180 INF Running Server :9000
+2020/08/21 19:45:14.713378 INF Close database
+2020/08/21 19:45:14.723805 INF Shutdown server
+2020/08/22 12:19:17.329545 INF Start Application
+2020/08/22 12:19:17.410303 INF Connect to database
+2020/08/22 12:19:17.555016 INF Running Server :9000
+2020/08/22 12:19:26.755216 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=0s bytes=43
+2020/08/22 12:19:47.320819 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=187.6907ms bytes=258
+2020/08/22 12:20:31.650206 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=194.8604ms bytes=258
+2020/08/22 12:20:53.107524 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=0s bytes=43
+2020/08/22 12:21:03.873918 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=2.992ms bytes=17093
+2020/08/22 12:26:24.543120 INF Close database
+2020/08/22 12:26:24.543120 INF Shutdown server
+2020/08/22 12:26:28.046318 INF Start Application
+2020/08/22 12:26:28.128067 INF Connect to database
+2020/08/22 12:26:28.249795 INF Running Server :9000
+2020/08/22 12:26:31.847778 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=2.9907ms bytes=17093
+2020/08/22 12:26:34.106197 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=997µs bytes=17093
+2020/08/22 12:26:34.776519 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=1.9946ms bytes=17093
+2020/08/22 12:26:35.555240 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=2.9904ms bytes=17093
+2020/08/22 12:26:36.806331 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=1.9953ms bytes=17093
+2020/08/22 12:26:38.570708 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=2.9664ms bytes=17093
+2020/08/22 12:30:47.697213 INF Close database
+2020/08/22 12:30:47.698211 INF Shutdown server
+2020/08/22 12:30:51.038563 INF Start Application
+2020/08/22 12:30:51.119348 INF Connect to database
+2020/08/22 12:30:51.242038 INF Running Server :9000
+2020/08/22 12:36:39.439293 INF Close database
+2020/08/22 12:36:39.439293 INF Shutdown server
+2020/08/22 12:36:42.218136 INF Start Application
+2020/08/22 12:36:42.299916 INF Connect to database
+2020/08/22 12:36:42.423637 INF Running Server :9000
+2020/08/22 12:36:47.739184 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=966µs bytes=43
+2020/08/22 12:36:52.620214 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=0s bytes=43
+2020/08/22 12:36:58.911420 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=198.0234ms bytes=258
+2020/08/22 12:37:28.870291 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=0s bytes=43
+2020/08/22 12:37:30.217907 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=0s bytes=43
+2020/08/22 12:38:54.159078 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=73.2062ms bytes=258
+2020/08/22 12:39:22.279804 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=2.9931ms bytes=17093
+2020/08/22 12:39:25.782415 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=1.9947ms bytes=17093
+2020/08/22 13:13:39.169761 INF Close database
+2020/08/22 13:13:39.169761 INF Shutdown server
+2020/08/22 13:13:42.456127 INF Start Application
+2020/08/22 13:13:42.536911 INF Connect to database
+2020/08/22 13:13:42.657200 INF Running Server :9000
+2020/08/22 13:14:36.127571 INF Close database
+2020/08/22 13:14:36.128585 INF Shutdown server
+2020-08-22 11:29:41.640INF Start Application
+2020-08-22 11:29:41.641INF Connect to database
+2020-08-22 11:29:41.762INF Running Server :9000
+2020-08-22 11:30:04.846INF Close database
+2020-08-22 11:30:04.847INF Shutdown server
+2020-08-22 11:30:07.977 INF Start Application
+2020-08-22 11:30:07.978 INF Connect to database
+2020-08-22 11:30:08.102 INF Running Server :9000
+2020-08-22 11:30:37.646 INF Close database
+2020-08-22 11:30:37.647 INF Shutdown server
+2222-08-2020 11:30:44.689 INF Start Application
+2222-08-2020 11:30:44.690 INF Connect to database
+2222-08-2020 11:30:44.812 INF Running Server :9000
+2222-08-2020 11:31:20.286 INF Close database
+2222-08-2020 11:31:20.287 INF Shutdown server
+08-08-2020 11:31:23.330 INF Start Application
+08-08-2020 11:31:23.331 INF Connect to database
+08-08-2020 11:31:23.455 INF Running Server :9000
+08-08-2020 11:31:42.795 INF Close database
+08-08-2020 11:31:42.795 INF Shutdown server
+08-88-2020 11:31:45.878 INF Start Application
+08-88-2020 11:31:45.879 INF Connect to database
+08-88-2020 11:31:46.003 INF Running Server :9000
+08-88-2020 11:33:11.643 INF Close database
+08-88-2020 11:33:11.643 INF Shutdown server
+08-22-2020 11:33:14.696 INF Start Application
+08-22-2020 11:33:14.696 INF Connect to database
+08-22-2020 11:33:14.821 INF Running Server :9000
+08-22-2020 11:33:38.622 INF Close database
+08-22-2020 11:33:38.623 INF Shutdown server
+22-08-2020 11:33:41.608 INF Start Application
+22-08-2020 11:33:41.609 INF Connect to database
+22-08-2020 11:33:41.732 INF Running Server :9000
+23-08-2020 07:16:05.024 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=7.9791ms bytes=43
+23-08-2020 11:57:57.191 INF Close database
+23-08-2020 11:57:57.197 INF Shutdown server
+23-08-2020 11:58:05.768 INF Start Application
+23-08-2020 11:58:05.769 INF Connect to database
+23-08-2020 11:58:05.899 INF Running Server :9000
+23-08-2020 11:58:36.312 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=198.1583ms bytes=258
+23-08-2020 12:00:47.795 INF user=- host=localhost:9000 method=GET url=/users/ status=401 time=0s bytes=43
+23-08-2020 12:01:01.391 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=1.9938ms bytes=17093
+23-08-2020 12:02:50.120 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=200 time=997.1µs bytes=231
+23-08-2020 12:03:28.221 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=998µs bytes=2
+23-08-2020 12:03:38.170 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=997µs bytes=17093
+23-08-2020 12:04:21.584 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.0226ms bytes=2
+23-08-2020 12:04:41.115 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.9µs bytes=2
+23-08-2020 12:04:53.440 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=1.9955ms bytes=17093
+23-08-2020 12:07:50.186 INF Close database
+23-08-2020 12:07:50.196 INF Shutdown server
+23-08-2020 12:07:54.091 INF Start Application
+23-08-2020 12:07:54.091 INF Connect to database
+23-08-2020 12:07:54.216 INF Running Server :9000
+23-08-2020 12:07:56.876 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.994ms bytes=2
+23-08-2020 12:08:18.361 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=996.2µs bytes=2
+23-08-2020 12:08:57.010 INF Close database
+23-08-2020 12:08:57.010 INF Shutdown server
+23-08-2020 12:08:59.967 INF Start Application
+23-08-2020 12:08:59.968 INF Connect to database
+23-08-2020 12:09:00.093 INF Running Server :9000
+23-08-2020 12:09:01.368 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=6.9827ms bytes=2
+23-08-2020 12:09:41.716 INF Close database
+23-08-2020 12:09:41.717 INF Shutdown server
+23-08-2020 12:09:44.502 INF Start Application
+23-08-2020 12:09:44.503 INF Connect to database
+23-08-2020 12:09:44.633 INF Running Server :9000
+23-08-2020 12:09:46.330 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=2.9922ms bytes=2
+23-08-2020 12:19:20.707 INF Close database
+23-08-2020 12:19:20.709 INF Shutdown server
+23-08-2020 12:19:23.736 INF Start Application
+23-08-2020 12:19:23.736 INF Connect to database
+23-08-2020 12:19:23.859 INF Running Server :9000
+23-08-2020 12:19:26.208 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=997.8µs bytes=43
+23-08-2020 12:19:34.675 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=184.5462ms bytes=258
+23-08-2020 12:19:50.930 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.995ms bytes=89
+23-08-2020 12:21:55.199 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=998.4µs bytes=89
+23-08-2020 12:27:09.333 INF Close database
+23-08-2020 12:27:09.335 INF Shutdown server
+23-08-2020 12:27:12.679 INF Start Application
+23-08-2020 12:27:12.680 INF Connect to database
+23-08-2020 12:27:12.806 INF Running Server :9000
+23-08-2020 12:27:18.296 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9818ms bytes=89
+23-08-2020 12:27:29.771 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9b status=400 time=998.7µs bytes=89
+23-08-2020 12:27:38.821 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.2µs bytes=89
+23-08-2020 12:29:49.072 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.5µs bytes=89
+23-08-2020 12:30:02.573 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=0s bytes=80
+23-08-2020 12:30:25.033 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.5µs bytes=89
+23-08-2020 12:41:23.327 INF Close database
+23-08-2020 12:41:23.327 INF Shutdown server
+23-08-2020 12:41:26.130 INF Start Application
+23-08-2020 12:41:26.131 INF Connect to database
+23-08-2020 12:41:26.274 INF Running Server :9000
+23-08-2020 12:41:30.939 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=0s bytes=43
+23-08-2020 12:41:37.172 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=176.4548ms bytes=258
+23-08-2020 12:41:52.312 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=998.3µs bytes=89
+23-08-2020 13:13:44.823 INF Close database
+23-08-2020 13:13:44.824 INF Shutdown server
+23-08-2020 13:13:48.499 INF Start Application
+23-08-2020 13:13:48.500 INF Connect to database
+23-08-2020 13:13:48.639 INF Running Server :9000
+23-08-2020 13:13:50.557 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=0s bytes=43
+23-08-2020 13:13:54.618 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=81.7804ms bytes=258
+23-08-2020 13:14:10.942 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9961ms bytes=89
+23-08-2020 13:19:33.504 INF Close database
+23-08-2020 13:19:33.505 INF Shutdown server
+23-08-2020 13:19:36.576 INF Start Application
+23-08-2020 13:19:36.577 INF Connect to database
+23-08-2020 13:19:36.699 INF Running Server :9000
+23-08-2020 13:20:28.943 INF Close database
+23-08-2020 13:20:28.944 INF Shutdown server
+23-08-2020 13:20:31.748 INF Start Application
+23-08-2020 13:20:31.749 INF Connect to database
+23-08-2020 13:20:31.872 INF Running Server :9000
+23-08-2020 13:20:32.197 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=2.9908ms bytes=89
+23-08-2020 13:20:53.327 INF Close database
+23-08-2020 13:20:53.329 INF Shutdown server
+23-08-2020 13:20:56.265 INF Start Application
+23-08-2020 13:20:56.266 INF Connect to database
+23-08-2020 13:20:56.397 INF Running Server :9000
+23-08-2020 13:20:58.964 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=3.9745ms bytes=89
+23-08-2020 13:21:25.675 INF Close database
+23-08-2020 13:21:25.676 INF Shutdown server
+23-08-2020 13:21:28.308 INF Start Application
+23-08-2020 13:21:28.308 INF Connect to database
+23-08-2020 13:21:28.434 INF Running Server :9000
+23-08-2020 13:21:30.129 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=5.9827ms bytes=114
+23-08-2020 13:49:34.331 INF Close database
+23-08-2020 13:49:34.331 INF Shutdown server
+23-08-2020 13:49:37.863 INF Start Application
+23-08-2020 13:49:37.863 INF Connect to database
+23-08-2020 13:49:37.987 INF Running Server :9000
+24-08-2020 09:17:07.661 INF Close database
+24-08-2020 09:17:07.663 INF Shutdown server
+24-08-2020 09:17:12.541 INF Start Application
+24-08-2020 09:17:12.541 INF Connect to database
+24-08-2020 09:17:12.677 INF Running Server :9000
+24-08-2020 09:18:36.568 INF Close database
+24-08-2020 09:18:36.569 INF Shutdown server
+24-08-2020 09:18:44.255 INF Start Application
+24-08-2020 09:18:44.255 INF Connect to database
+24-08-2020 09:18:44.379 INF Running Server :9000
+24-08-2020 09:18:49.485 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=195.4784ms bytes=258
+24-08-2020 09:19:22.180 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=1.9949ms bytes=231
+24-08-2020 09:19:48.996 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=997.4µs bytes=231
+24-08-2020 09:22:57.367 INF Close database
+24-08-2020 09:22:57.368 INF Shutdown server
+24-08-2020 09:23:05.579 INF Start Application
+24-08-2020 09:23:05.580 INF Connect to database
+24-08-2020 09:23:05.703 INF Running Server :9000
+24-08-2020 09:23:08.449 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=7.977ms bytes=231
+24-08-2020 09:30:19.862 INF Close database
+24-08-2020 09:30:19.862 INF Shutdown server
+24-08-2020 09:30:27.553 INF Start Application
+24-08-2020 09:30:27.553 INF Connect to database
+24-08-2020 09:30:27.676 INF Running Server :9000
+24-08-2020 09:30:36.585 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=2.9933ms bytes=231
+24-08-2020 09:38:16.307 INF Close database
+24-08-2020 09:38:16.307 INF Shutdown server
+24-08-2020 09:38:23.950 INF Start Application
+24-08-2020 09:38:23.950 INF Connect to database
+24-08-2020 09:38:24.073 INF Running Server :9000
+24-08-2020 09:38:34.776 INF Close database
+24-08-2020 09:38:34.777 INF Shutdown server
+24-08-2020 09:38:37.829 INF Start Application
+24-08-2020 09:38:37.830 INF Connect to database
+24-08-2020 09:38:37.955 INF Running Server :9000
+24-08-2020 09:38:46.832 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=0s bytes=43
+24-08-2020 09:40:27.931 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=77.7935ms bytes=258
+24-08-2020 09:40:54.205 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=91.7548ms bytes=231
+24-08-2020 09:44:07.923 INF Close database
+24-08-2020 09:44:07.926 INF Shutdown server
+24-08-2020 09:44:15.432 INF Start Application
+24-08-2020 09:44:15.432 INF Connect to database
+24-08-2020 09:44:15.563 INF Running Server :9000
+24-08-2020 09:44:21.263 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=2.9868ms bytes=91
+24-08-2020 09:56:37.442 INF Close database
+24-08-2020 09:56:37.447 INF Shutdown server
+24-08-2020 09:56:40.983 INF Start Application
+24-08-2020 09:56:40.983 INF Connect to database
+24-08-2020 09:56:41.108 INF Running Server :9000
+24-08-2020 09:57:31.206 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=0s bytes=43
+24-08-2020 09:58:34.639 INF Close database
+24-08-2020 09:58:34.639 INF Shutdown server
+24-08-2020 09:58:44.611 INF Start Application
+24-08-2020 09:58:44.612 INF Connect to database
+24-08-2020 09:58:44.740 INF Running Server :9000
+24-08-2020 09:58:46.274 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=74.815ms bytes=258
+24-08-2020 09:59:06.550 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=999.9µs bytes=91
+24-08-2020 10:01:16.527 INF Close database
+24-08-2020 10:01:16.528 INF Shutdown server
+24-08-2020 10:01:24.713 INF Start Application
+24-08-2020 10:01:24.714 INF Connect to database
+24-08-2020 10:01:24.840 INF Running Server :9000
+24-08-2020 10:01:28.396 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=95.744ms bytes=231
+24-08-2020 10:01:47.056 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=5.9854ms bytes=231
+24-08-2020 10:02:15.436 INF Close database
+24-08-2020 10:02:15.440 INF Shutdown server
+24-08-2020 10:02:19.221 INF Start Application
+24-08-2020 10:02:19.222 INF Connect to database
+24-08-2020 10:02:19.344 INF Running Server :9000
+24-08-2020 10:02:22.527 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=94.772ms bytes=231
+24-08-2020 10:02:38.568 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=1.9929ms bytes=231
+24-08-2020 11:13:21.075 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=5.985ms bytes=231
+24-08-2020 11:15:44.368 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=3.9901ms bytes=229
+24-08-2020 11:15:48.258 INF Close database
+24-08-2020 11:15:48.259 INF Shutdown server
+24-08-2020 11:15:51.286 INF Start Application
+24-08-2020 11:15:51.287 INF Connect to database
+24-08-2020 11:15:51.429 INF Running Server :9000
+24-08-2020 11:16:03.745 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=94.7446ms bytes=231
+24-08-2020 11:18:13.507 INF Close database
+24-08-2020 11:18:13.507 INF Shutdown server
+24-08-2020 11:18:17.298 INF Start Application
+24-08-2020 11:18:17.299 INF Connect to database
+24-08-2020 11:18:17.427 INF Running Server :9000
+24-08-2020 11:18:19.093 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=104.7873ms bytes=231
+24-08-2020 11:18:33.256 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=1.995ms bytes=231
+24-08-2020 11:21:59.421 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=1.9942ms bytes=230
+24-08-2020 11:26:03.013 INF Close database
+24-08-2020 11:26:03.013 INF Shutdown server
+24-08-2020 11:26:06.151 INF Start Application
+24-08-2020 11:26:06.151 INF Connect to database
+24-08-2020 11:26:06.281 INF Running Server :9000
+24-08-2020 11:26:18.917 INF Close database
+24-08-2020 11:26:18.917 INF Shutdown server
+24-08-2020 11:26:21.735 INF Start Application
+24-08-2020 11:26:21.736 INF Connect to database
+24-08-2020 11:26:21.867 INF Running Server :9000
+24-08-2020 11:37:30.008 INF Close database
+24-08-2020 11:37:30.021 INF Shutdown server
+24-08-2020 11:37:33.782 INF Start Application
+24-08-2020 11:37:33.783 INF Connect to database
+24-08-2020 11:37:33.915 INF Running Server :9000
+24-08-2020 11:39:28.437 INF Close database
+24-08-2020 11:39:28.438 INF Shutdown server
+24-08-2020 11:39:31.577 INF Start Application
+24-08-2020 11:39:31.579 INF Connect to database
+24-08-2020 11:39:31.718 INF Running Server :9000
+24-08-2020 11:42:40.031 INF Close database
+24-08-2020 11:42:40.041 INF Shutdown server
+24-08-2020 11:42:43.131 INF Start Application
+24-08-2020 11:42:43.131 INF Connect to database
+24-08-2020 11:42:43.260 INF Running Server :9000
+24-08-2020 12:13:50.678 INF Close database
+24-08-2020 12:13:50.678 INF Shutdown server
+24-08-2020 12:13:53.890 INF Start Application
+24-08-2020 12:13:53.890 INF Connect to database
+24-08-2020 12:13:54.020 INF Running Server :9000
+24-08-2020 12:14:24.374 INF Close database
+24-08-2020 12:14:24.374 INF Shutdown server
+24-08-2020 12:14:27.135 INF Start Application
+24-08-2020 12:14:27.135 INF Connect to database
+24-08-2020 12:14:27.264 INF Running Server :9000
+24-08-2020 12:16:36.857 INF Close database
+24-08-2020 12:16:36.877 INF Shutdown server
+24-08-2020 12:16:39.966 INF Start Application
+24-08-2020 12:16:39.966 INF Connect to database
+24-08-2020 12:16:40.093 INF Running Server :9000
+24-08-2020 12:17:26.037 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=998.3µs bytes=71
+24-08-2020 12:17:42.333 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9961ms bytes=71
+24-08-2020 12:21:15.829 INF Close database
+24-08-2020 12:21:15.829 INF Shutdown server
+24-08-2020 12:22:20.698 INF Start Application
+24-08-2020 12:22:20.699 INF Connect to database
+24-08-2020 12:22:20.832 INF Running Server :9000
+24-08-2020 12:22:24.751 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=2.9918ms bytes=71
+24-08-2020 12:23:13.399 INF Close database
+24-08-2020 12:23:13.401 INF Shutdown server
+24-08-2020 12:23:34.702 INF Start Application
+24-08-2020 12:23:34.702 INF Connect to database
+24-08-2020 12:23:34.827 INF Running Server :9000
+24-08-2020 12:23:36.823 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9949ms bytes=71
+24-08-2020 12:24:57.494 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9939ms bytes=71
+24-08-2020 12:29:34.882 INF Close database
+24-08-2020 12:29:34.884 INF Shutdown server
+24-08-2020 12:29:46.792 INF Start Application
+24-08-2020 12:29:46.792 INF Connect to database
+24-08-2020 12:29:46.921 INF Running Server :9000
+24-08-2020 12:29:48.848 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=0s bytes=43
+24-08-2020 12:30:22.562 INF Close database
+24-08-2020 12:30:22.564 INF Shutdown server
+24-08-2020 12:30:25.243 INF Start Application
+24-08-2020 12:30:25.244 INF Connect to database
+24-08-2020 12:30:25.405 INF Running Server :9000
+24-08-2020 12:30:27.737 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=80.7858ms bytes=258
+24-08-2020 12:30:47.456 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=995.5µs bytes=71
+24-08-2020 12:35:29.535 INF Close database
+24-08-2020 12:35:29.557 INF Shutdown server
+24-08-2020 12:35:32.558 INF Start Application
+24-08-2020 12:35:32.558 INF Connect to database
+24-08-2020 12:35:32.708 INF Running Server :9000
+24-08-2020 12:40:20.620 INF Close database
+24-08-2020 12:40:20.642 INF Shutdown server
+24-08-2020 12:40:23.820 INF Start Application
+24-08-2020 12:40:23.821 INF Connect to database
+24-08-2020 12:40:23.957 INF Running Server :9000
+24-08-2020 12:40:28.896 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=2.9926ms bytes=230
+24-08-2020 13:12:50.777 INF Close database
+24-08-2020 13:12:50.777 INF Shutdown server
+24-08-2020 13:12:53.702 INF Start Application
+24-08-2020 13:12:53.702 INF Connect to database
+24-08-2020 13:12:53.835 INF Running Server :9000
+24-08-2020 13:12:57.606 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=1.9953ms bytes=230
+24-08-2020 13:13:13.293 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=998.1µs bytes=78
+24-08-2020 13:14:00.092 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=1.9953ms bytes=230
+24-08-2020 13:20:30.549 INF Close database
+24-08-2020 13:20:30.550 INF Shutdown server
+24-08-2020 13:20:33.803 INF Start Application
+24-08-2020 13:20:33.803 INF Connect to database
+24-08-2020 13:20:33.934 INF Running Server :9000
+24-08-2020 13:20:36.675 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=998.7µs bytes=27
+24-08-2020 13:20:51.861 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.1µs bytes=64
+24-08-2020 13:21:00.505 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=71
+24-08-2020 13:21:32.022 INF Close database
+24-08-2020 13:21:32.022 INF Shutdown server
+24-08-2020 13:21:35.452 INF Start Application
+24-08-2020 13:21:35.454 INF Connect to database
+24-08-2020 13:21:35.584 INF Running Server :9000
+24-08-2020 13:21:38.100 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9947ms bytes=57
+24-08-2020 13:22:59.412 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=996µs bytes=27
+24-08-2020 13:23:35.157 INF Close database
+24-08-2020 13:23:35.157 INF Shutdown server
+24-08-2020 13:23:38.170 INF Start Application
+24-08-2020 13:23:38.171 INF Connect to database
+24-08-2020 13:23:38.302 INF Running Server :9000
+24-08-2020 13:23:39.846 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=994µs bytes=57
+24-08-2020 13:27:59.865 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=92.7505ms bytes=230
+24-08-2020 13:29:08.723 INF Close database
+24-08-2020 13:29:08.723 INF Shutdown server
+24-08-2020 13:29:11.570 INF Start Application
+24-08-2020 13:29:11.570 INF Connect to database
+24-08-2020 13:29:11.708 INF Running Server :9000
+24-08-2020 13:29:14.066 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=108.7104ms bytes=230
+24-08-2020 13:29:30.847 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=4.9868ms bytes=230
+24-08-2020 13:33:40.632 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=996.5µs bytes=107
+24-08-2020 13:33:53.009 INF Close database
+24-08-2020 13:33:53.010 INF Shutdown server
+24-08-2020 13:34:01.140 INF Start Application
+24-08-2020 13:34:01.141 INF Connect to database
+24-08-2020 13:34:01.266 INF Running Server :9000
+24-08-2020 13:34:06.250 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=999.1µs bytes=107
+24-08-2020 18:54:26.053 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997µs bytes=107
+24-08-2020 18:55:10.737 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=91.7543ms bytes=228
+24-08-2020 18:56:04.688 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.8µs bytes=107
+24-08-2020 19:07:55.813 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.7µs bytes=107
+24-08-2020 19:09:52.403 INF Close database
+24-08-2020 19:09:52.404 INF Shutdown server
+24-08-2020 19:09:58.241 INF Start Application
+24-08-2020 19:09:58.241 INF Connect to database
+24-08-2020 19:09:58.363 INF Running Server :9000
+24-08-2020 19:10:02.568 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=4.9845ms bytes=107
+24-08-2020 20:56:46.197 INF Close database
+24-08-2020 20:56:46.231 INF Shutdown server
+24-08-2020 20:57:45.919 INF Start Application
+24-08-2020 20:57:45.919 INF Connect to database
+24-08-2020 20:57:46.046 INF Running Server :9000
+24-08-2020 20:58:05.215 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9935ms bytes=85
+24-08-2020 20:59:36.213 INF Close database
+24-08-2020 20:59:36.214 INF Shutdown server
+24-08-2020 20:59:40.883 INF Start Application
+24-08-2020 20:59:40.884 INF Connect to database
+24-08-2020 20:59:41.014 INF Running Server :9000
+24-08-2020 20:59:43.652 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9942ms bytes=97
+24-08-2020 21:01:24.551 INF Close database
+24-08-2020 21:01:24.552 INF Shutdown server
+24-08-2020 21:01:29.390 INF Start Application
+24-08-2020 21:01:29.390 INF Connect to database
+24-08-2020 21:01:29.517 INF Running Server :9000
+24-08-2020 21:01:32.585 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=2.9936ms bytes=93
+24-08-2020 21:01:53.500 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=92.7608ms bytes=228
+24-08-2020 21:03:19.180 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=995.4µs bytes=103
+24-08-2020 21:03:51.317 INF Close database
+24-08-2020 21:03:51.317 INF Shutdown server
+24-08-2020 21:03:54.406 INF Start Application
+24-08-2020 21:03:54.407 INF Connect to database
+24-08-2020 21:03:54.540 INF Running Server :9000
+24-08-2020 21:03:56.228 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9931ms bytes=103
+24-08-2020 21:04:09.014 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=996.3µs bytes=103
+25-08-2020 08:27:12.668 INF Close database
+25-08-2020 08:27:12.668 INF Shutdown server
+25-08-2020 08:27:20.598 INF Start Application
+25-08-2020 08:27:20.598 INF Connect to database
+25-08-2020 08:27:20.723 INF Running Server :9000
+25-08-2020 08:27:27.032 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=0s bytes=43
+25-08-2020 08:27:31.681 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=62.8311ms bytes=258
+25-08-2020 08:27:53.745 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=996.2µs bytes=103
+25-08-2020 08:28:11.406 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=89.7853ms bytes=228
+25-08-2020 08:28:22.986 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=1.9947ms bytes=228
+25-08-2020 08:29:24.989 INF Close database
+25-08-2020 08:29:24.989 INF Shutdown server
+25-08-2020 08:29:32.555 INF Start Application
+25-08-2020 08:29:32.555 INF Connect to database
+25-08-2020 08:29:32.678 INF Running Server :9000
+25-08-2020 08:29:35.624 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=2.9904ms bytes=93
+25-08-2020 17:42:14.778 INF Close database
+25-08-2020 17:42:14.780 INF Shutdown server
+25-08-2020 17:42:20.935 INF Start Application
+25-08-2020 17:42:20.935 INF Connect to database
+25-08-2020 17:42:21.062 INF Running Server :9000
+25-08-2020 17:42:26.808 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=65.8228ms bytes=258
+25-08-2020 17:42:55.839 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9956ms bytes=93
+25-08-2020 17:43:49.834 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=996.9µs bytes=93
+25-08-2020 17:44:20.920 INF Close database
+25-08-2020 17:44:20.921 INF Shutdown server
+25-08-2020 17:44:25.899 INF Start Application
+25-08-2020 17:44:25.900 INF Connect to database
+25-08-2020 17:44:26.026 INF Running Server :9000
+25-08-2020 17:45:12.264 INF Close database
+25-08-2020 17:45:12.264 INF Shutdown server
+25-08-2020 17:45:15.532 INF Start Application
+25-08-2020 17:45:15.532 INF Connect to database
+25-08-2020 17:45:15.662 INF Running Server :9000
+25-08-2020 17:45:19.045 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=105.7161ms bytes=228
+26-08-2020 08:46:24.682 INF Close database
+26-08-2020 08:46:24.686 INF Shutdown server
+26-08-2020 08:46:28.333 INF Start Application
+26-08-2020 08:46:28.334 INF Connect to database
+26-08-2020 08:46:28.471 INF Running Server :9000
+26-08-2020 08:46:49.256 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=105.7165ms bytes=228
+26-08-2020 08:47:40.485 INF Close database
+26-08-2020 08:47:40.488 INF Shutdown server
+26-08-2020 08:47:43.383 INF Start Application
+26-08-2020 08:47:43.383 INF Connect to database
+26-08-2020 08:47:43.521 INF Running Server :9000
+26-08-2020 08:59:16.923 INF Start Application
+26-08-2020 08:59:16.924 INF Connect to database
+26-08-2020 08:59:17.080 INF Running Server :9000
+26-08-2020 09:01:37.960 INF Start Application
+26-08-2020 09:01:37.960 INF Connect to database
+26-08-2020 09:01:38.090 INF Running Server :9000
+26-08-2020 09:03:56.546 INF Start Application
+26-08-2020 09:03:56.547 INF Connect to database
+26-08-2020 09:03:56.672 INF Running Server :9000
+26-08-2020 09:04:59.169 INF Start Application
+26-08-2020 09:04:59.169 INF Connect to database
+26-08-2020 09:04:59.292 INF Running Server :9000
+26-08-2020 09:07:18.150 INF Start Application
+26-08-2020 09:07:18.150 INF Connect to database
+26-08-2020 09:07:18.277 INF Running Server :9000
+26-08-2020 09:13:24.740 INF Start Application
+26-08-2020 09:13:24.741 INF Connect to database
+26-08-2020 09:13:24.868 INF Running Server :9000
+26-08-2020 09:13:28.502 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=106.7137ms bytes=228
+26-08-2020 09:19:36.867 INF Close database
+26-08-2020 09:19:36.867 INF Shutdown server
+26-08-2020 09:20:09.933 INF Start Application
+26-08-2020 09:20:09.933 INF Connect to database
+26-08-2020 09:20:10.061 INF Running Server :9000
+26-08-2020 09:20:13.938 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9935ms bytes=85
+26-08-2020 11:52:44.446 INF Close database
+26-08-2020 11:52:44.447 INF Shutdown server
+26-08-2020 11:54:05.599 INF Start Application
+26-08-2020 11:54:05.599 INF Connect to database
+26-08-2020 11:54:05.728 INF Running Server :9000
+26-08-2020 11:54:09.610 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9967ms bytes=115
+26-08-2020 12:01:59.200 INF Close database
+26-08-2020 12:01:59.201 INF Shutdown server
+26-08-2020 12:02:04.753 INF Start Application
+26-08-2020 12:02:04.754 INF Connect to database
+26-08-2020 12:02:04.878 INF Running Server :9000
+26-08-2020 12:02:47.550 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9954ms bytes=115
+26-08-2020 12:03:28.614 INF Close database
+26-08-2020 12:03:28.614 INF Shutdown server
+26-08-2020 12:03:33.299 INF Start Application
+26-08-2020 12:03:33.299 INF Connect to database
+26-08-2020 12:03:33.431 INF Running Server :9000
+26-08-2020 12:03:34.628 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=3.0042ms bytes=85
+26-08-2020 12:46:27.900 INF Close database
+26-08-2020 12:46:27.901 INF Shutdown server
+26-08-2020 12:47:37.526 INF Start Application
+26-08-2020 12:47:37.526 INF Connect to database
+26-08-2020 12:47:37.650 INF Running Server :9000
+26-08-2020 12:47:54.188 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=2.9891ms bytes=104
+26-08-2020 12:48:34.508 INF Close database
+26-08-2020 12:48:34.508 INF Shutdown server
+26-08-2020 12:48:37.559 INF Start Application
+26-08-2020 12:48:37.559 INF Connect to database
+26-08-2020 12:48:37.685 INF Running Server :9000
+26-08-2020 12:48:41.146 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=1.9955ms bytes=104
+26-08-2020 12:48:59.939 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.8µs bytes=104
+26-08-2020 12:49:30.192 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=104
+26-08-2020 12:49:32.558 INF Close database
+26-08-2020 12:49:32.558 INF Shutdown server
+26-08-2020 12:49:37.290 INF Start Application
+26-08-2020 12:49:37.291 INF Connect to database
+26-08-2020 12:49:37.418 INF Running Server :9000
+26-08-2020 12:49:47.438 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=105.717ms bytes=231
+26-08-2020 14:27:31.914 INF Close database
+26-08-2020 14:27:31.915 INF Shutdown server
+26-08-2020 14:27:36.680 INF Start Application
+26-08-2020 14:27:36.680 INF Connect to database
+26-08-2020 14:27:36.807 INF Running Server :9000
+26-08-2020 15:23:33.664 INF Close database
+26-08-2020 15:23:33.665 INF Shutdown server
+26-08-2020 15:23:41.108 INF Start Application
+26-08-2020 15:23:41.108 INF Connect to database
+26-08-2020 15:23:41.237 INF Running Server :9000
+26-08-2020 15:30:21.886 INF Close database
+26-08-2020 15:30:21.892 INF Shutdown server
+26-08-2020 15:30:25.427 INF Start Application
+26-08-2020 15:30:25.427 INF Connect to database
+26-08-2020 15:30:25.557 INF Running Server :9000
+26-08-2020 15:35:33.121 INF Close database
+26-08-2020 15:35:33.127 INF Shutdown server
+26-08-2020 15:35:36.071 INF Start Application
+26-08-2020 15:35:36.071 INF Connect to database
+26-08-2020 15:35:36.203 INF Running Server :9000
+26-08-2020 15:38:41.920 INF Close database
+26-08-2020 15:38:41.921 INF Shutdown server
+26-08-2020 15:38:45.079 INF Start Application
+26-08-2020 15:38:45.079 INF Connect to database
+26-08-2020 15:38:45.210 INF Running Server :9000
+26-08-2020 15:57:55.417 INF Close database
+26-08-2020 15:57:55.423 INF Shutdown server
+26-08-2020 16:26:49.206 INF Start Application
+26-08-2020 16:26:49.207 INF Connect to database
+26-08-2020 16:26:49.334 INF Running Server :9000
+26-08-2020 16:28:35.446 INF Close database
+26-08-2020 16:28:35.454 INF Shutdown server
+26-08-2020 16:28:41.030 INF Start Application
+26-08-2020 16:28:41.031 INF Connect to database
+26-08-2020 16:28:41.160 INF Running Server :9000
+26-08-2020 16:28:46.997 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=98
+26-08-2020 17:20:14.030 INF Close database
+26-08-2020 17:20:14.034 INF Shutdown server
+26-08-2020 17:21:06.359 INF Start Application
+26-08-2020 17:21:06.359 INF Connect to database
+26-08-2020 17:21:06.485 INF Running Server :9000
+26-08-2020 17:21:53.384 INF Close database
+26-08-2020 17:21:53.396 INF Shutdown server
+26-08-2020 17:22:26.937 INF Start Application
+26-08-2020 17:22:26.937 INF Connect to database
+26-08-2020 17:22:27.061 INF Running Server :9000
+26-08-2020 17:23:09.300 INF Close database
+26-08-2020 17:23:09.301 INF Shutdown server
+26-08-2020 17:23:14.070 INF Start Application
+26-08-2020 17:23:14.071 INF Connect to database
+26-08-2020 17:23:14.196 INF Running Server :9000
+26-08-2020 17:33:10.034 INF Close database
+26-08-2020 17:33:10.035 INF Shutdown server
+26-08-2020 17:33:13.941 INF Start Application
+26-08-2020 17:33:13.941 INF Connect to database
+26-08-2020 17:33:14.069 INF Running Server :9000
+26-08-2020 17:34:31.908 INF Close database
+26-08-2020 17:34:31.925 INF Shutdown server
+26-08-2020 17:34:36.496 INF Start Application
+26-08-2020 17:34:36.496 INF Connect to database
+26-08-2020 17:34:36.622 INF Running Server :9000
+26-08-2020 17:34:40.241 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=91
+26-08-2020 17:34:54.678 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=91
+26-08-2020 17:50:41.459 INF Close database
+26-08-2020 17:50:41.460 INF Shutdown server
+26-08-2020 17:50:46.099 INF Start Application
+26-08-2020 17:50:46.099 INF Connect to database
+26-08-2020 17:50:46.234 INF Running Server :9000
+26-08-2020 17:50:49.461 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=91
+26-08-2020 17:50:52.561 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=91
+26-08-2020 17:54:40.763 INF Close database
+26-08-2020 17:54:40.769 INF Shutdown server
+26-08-2020 17:54:46.779 INF Start Application
+26-08-2020 17:54:46.780 INF Connect to database
+26-08-2020 17:54:46.906 INF Running Server :9000
+26-08-2020 17:56:59.306 INF Close database
+26-08-2020 17:56:59.313 INF Shutdown server
+26-08-2020 17:57:04.271 INF Start Application
+26-08-2020 17:57:04.272 INF Connect to database
+26-08-2020 17:57:04.399 INF Running Server :9000
+26-08-2020 17:58:01.629 INF Close database
+26-08-2020 17:58:01.635 INF Shutdown server
+26-08-2020 17:58:05.369 INF Start Application
+26-08-2020 17:58:05.369 INF Connect to database
+26-08-2020 17:58:05.496 INF Running Server :9000
+26-08-2020 17:58:09.062 INF user=- host=localhost:9000 method=POST url=/auth/login status=200 time=70.8098ms bytes=258
+26-08-2020 18:00:55.554 INF Close database
+26-08-2020 18:00:55.554 INF Shutdown server
+26-08-2020 18:01:00.682 INF Start Application
+26-08-2020 18:01:00.683 INF Connect to database
+26-08-2020 18:01:00.806 INF Running Server :9000
+26-08-2020 18:01:03.112 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=0s bytes=91
+26-08-2020 18:03:55.611 INF Close database
+26-08-2020 18:03:55.613 INF Shutdown server
+26-08-2020 18:03:58.789 INF Start Application
+26-08-2020 18:03:58.790 INF Connect to database
+26-08-2020 18:03:58.920 INF Running Server :9000
+26-08-2020 18:04:02.636 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.6µs bytes=91
+26-08-2020 18:04:38.119 INF Close database
+26-08-2020 18:04:38.121 INF Shutdown server
+26-08-2020 18:04:41.417 INF Start Application
+26-08-2020 18:04:41.417 INF Connect to database
+26-08-2020 18:04:41.542 INF Running Server :9000
+26-08-2020 18:04:44.235 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=997.3µs bytes=91
+26-08-2020 18:05:10.413 INF Close database
+26-08-2020 18:05:10.414 INF Shutdown server
+26-08-2020 18:05:14.872 INF Start Application
+26-08-2020 18:05:14.872 INF Connect to database
+26-08-2020 18:05:14.996 INF Running Server :9000
+26-08-2020 18:05:18.114 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=400 time=5.9853ms bytes=91
+26-08-2020 18:06:10.524 INF Close database
+26-08-2020 18:06:10.526 INF Shutdown server
+26-08-2020 18:06:13.335 INF Start Application
+26-08-2020 18:06:13.336 INF Connect to database
+26-08-2020 18:06:13.465 INF Running Server :9000
+26-08-2020 18:06:19.360 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=401 time=997.7µs bytes=43
+26-08-2020 18:06:50.304 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=143.6157ms bytes=230
+26-08-2020 18:08:44.186 INF Close database
+26-08-2020 18:08:44.188 INF Shutdown server
+26-08-2020 18:08:49.805 INF Start Application
+26-08-2020 18:08:49.806 INF Connect to database
+26-08-2020 18:08:49.932 INF Running Server :9000
+26-08-2020 18:08:57.248 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=105.72ms bytes=230
+26-08-2020 20:30:04.607 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=2.9929ms bytes=229
+26-08-2020 20:33:45.126 INF Close database
+26-08-2020 20:33:45.127 INF Shutdown server
+26-08-2020 20:33:48.224 INF Start Application
+26-08-2020 20:33:48.225 INF Connect to database
+26-08-2020 20:33:48.359 INF Running Server :9000
+26-08-2020 20:33:59.076 INF Close database
+26-08-2020 20:33:59.076 INF Shutdown server
+26-08-2020 20:34:03.663 INF Start Application
+26-08-2020 20:34:03.663 INF Connect to database
+26-08-2020 20:34:03.791 INF Running Server :9000
+26-08-2020 20:35:09.199 INF Close database
+26-08-2020 20:35:09.208 INF Shutdown server
+26-08-2020 20:35:13.947 INF Start Application
+26-08-2020 20:35:13.948 INF Connect to database
+26-08-2020 20:35:14.080 INF Running Server :9000
+26-08-2020 20:35:15.353 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=99.7317ms bytes=230
+26-08-2020 20:35:56.364 INF Close database
+26-08-2020 20:35:56.365 INF Shutdown server
+26-08-2020 20:35:59.579 INF Start Application
+26-08-2020 20:35:59.579 INF Connect to database
+26-08-2020 20:35:59.721 INF Running Server :9000
+26-08-2020 20:37:20.907 INF Close database
+26-08-2020 20:37:20.923 INF Shutdown server
+26-08-2020 20:37:24.081 INF Start Application
+26-08-2020 20:37:24.082 INF Connect to database
+26-08-2020 20:37:24.213 INF Running Server :9000
+26-08-2020 20:37:25.888 INF user=- host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=105.7169ms bytes=230
+26-08-2020 20:40:05.278 INF Close database
+26-08-2020 20:40:05.279 INF Shutdown server
+26-08-2020 20:40:08.418 INF Start Application
+26-08-2020 20:40:08.418 INF Connect to database
+26-08-2020 20:40:08.560 INF Running Server :9000
+26-08-2020 20:40:11.160 INF user= host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=104.7196ms bytes=230
+26-08-2020 20:41:46.848 INF Close database
+26-08-2020 20:41:46.848 INF Shutdown server
+26-08-2020 20:41:50.070 INF Start Application
+26-08-2020 20:41:50.070 INF Connect to database
+26-08-2020 20:41:50.206 INF Running Server :9000
+26-08-2020 20:41:53.679 INF user=foo@dev.com host=localhost:9000 method=PUT url=/users/71d4864f-1c6b-437d-b35a-a63dcfbde9ba status=201 time=101.7389ms bytes=230
+28-08-2020 07:43:48.714 INF Close database
+28-08-2020 07:43:48.717 INF Shutdown server
+28-08-2020 07:43:56.542 INF Start Application
+28-08-2020 07:43:56.542 INF Connect to database
+28-08-2020 07:43:56.676 INF Running Server :9000
+28-08-2020 21:53:21.680 INF Start Application
+28-08-2020 21:53:21.680 INF Connect to database
+28-08-2020 21:53:22.028 INF Running Server :9000
+28-08-2020 22:08:10.528 INF Close database
+28-08-2020 22:08:10.528 INF Shutdown server
+28-08-2020 22:08:13.335 INF Start Application
+28-08-2020 22:08:13.335 INF Connect to database
+28-08-2020 22:08:13.490 INF Running Server :9000
+28-08-2020 22:30:22.479 INF Close database
+28-08-2020 22:30:22.480 INF Shutdown server
+28-08-2020 22:30:26.036 INF Start Application
+28-08-2020 22:30:26.036 INF Connect to database
+28-08-2020 22:30:26.188 INF Running Server :9000
+28-08-2020 22:32:21.446 INF user= host=localhost:9000 method=POST url=/auth/login status=200 time=70.8098ms bytes=258
+28-08-2020 22:34:49.483 INF user= host=localhost:9000 method=GET url=/users/ status=401 time=0s bytes=43
+28-08-2020 22:35:02.109 INF user= host=localhost:9000 method=GET url=/users/ status=401 time=997.4µs bytes=67
+28-08-2020 22:38:06.286 INF Close database
+28-08-2020 22:38:06.287 INF Shutdown server
+28-08-2020 22:38:09.021 INF Start Application
+28-08-2020 22:38:09.022 INF Connect to database
+28-08-2020 22:38:09.183 INF Running Server :9000
+28-08-2020 22:38:10.790 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=2.9897ms bytes=18067
+28-08-2020 22:38:51.261 INF Close database
+28-08-2020 22:38:51.262 INF Shutdown server
+28-08-2020 22:38:55.893 INF Start Application
+28-08-2020 22:38:55.893 INF Connect to database
+28-08-2020 22:38:56.050 INF Running Server :9000
+28-08-2020 22:38:57.920 INF user=foo@dev.com host=localhost:9000 method=GET url=/users/ status=200 time=3.006ms bytes=13665
+28-08-2020 22:46:52.684 INF Close database
+28-08-2020 22:46:52.685 INF Shutdown server
+28-08-2020 22:46:55.360 INF Start Application
+28-08-2020 22:46:55.360 INF Connect to database
+28-08-2020 22:46:55.517 INF Running Server :9000
+28-08-2020 22:47:09.647 INF user= host=localhost:9000 method=POST url=/categories/ status=400 time=995.8µs bytes=103
+28-08-2020 22:49:29.116 INF Close database
+28-08-2020 22:49:29.117 INF Shutdown server
+28-08-2020 22:49:32.476 INF Start Application
+28-08-2020 22:49:32.476 INF Connect to database
+28-08-2020 22:49:32.640 INF Running Server :9000
+28-08-2020 22:49:37.917 INF user= host=localhost:9000 method=POST url=/categories/ status=400 time=997.3µs bytes=103
+29-08-2020 10:55:06.487 INF Close database
+29-08-2020 10:55:06.495 INF Shutdown server
+29-08-2020 10:55:09.536 INF Start Application
+29-08-2020 10:55:09.536 INF Connect to database
+29-08-2020 10:55:09.700 INF Running Server :9000
+29-08-2020 10:55:18.488 INF user= host=localhost:9000 method=POST url=/categories/ status=401 time=997.4µs bytes=71
+29-08-2020 10:55:54.475 INF user= host=localhost:9000 method=POST url=/auth/login status=200 time=72.0205ms bytes=258
+29-08-2020 11:00:38.712 INF user= host=localhost:9000 method=POST url=/categories/ status=401 time=0s bytes=71
+29-08-2020 11:33:28.783 INF Close database
+29-08-2020 11:33:28.784 INF Shutdown server
+29-08-2020 11:33:32.357 INF Start Application
+29-08-2020 11:33:32.358 INF Connect to database
+29-08-2020 11:33:32.512 INF Running Server :9000
+29-08-2020 11:33:38.995 INF user= host=localhost:9000 method=POST url=/categories/ status=401 time=0s bytes=71
+29-08-2020 11:34:45.314 INF user=foo@dev.com host=localhost:9000 method=POST url=/categories/ status=201 time=202.4653ms bytes=164
+29-08-2020 11:34:59.244 INF user=foo@dev.com host=localhost:9000 method=POST url=/categories/ status=409 time=997.6µs bytes=53
+29-08-2020 11:35:29.299 INF user= host=localhost:9000 method=POST url=/categories/ status=400 time=0s bytes=103
+29-08-2020 11:38:43.717 INF user= host=localhost:9000 method=GET url=/categories/ status=401 time=0s bytes=71
+29-08-2020 11:45:11.945 INF user=foo@dev.com host=localhost:9000 method=GET url=/categories/ status=200 time=997.6µs bytes=164
+29-08-2020 11:52:24.862 INF Close database
+29-08-2020 11:52:24.862 INF Shutdown server
+29-08-2020 11:52:27.628 INF Start Application
+29-08-2020 11:52:27.628 INF Connect to database
+29-08-2020 11:52:27.788 INF Running Server :9000
+29-08-2020 11:54:12.877 INF user= host=localhost:9000 method=POST url=/products/ status=400 time=0s bytes=78
+29-08-2020 12:00:20.939 INF Close database
+29-08-2020 12:00:20.939 INF Shutdown server
+29-08-2020 12:00:23.789 INF Start Application
+29-08-2020 12:00:23.790 INF Connect to database
+29-08-2020 12:00:23.943 INF Running Server :9000
+29-08-2020 12:00:34.809 INF user=foo@dev.com host=localhost:9000 method=POST url=/products/ status=200 time=99.7314ms bytes=365
+29-08-2020 12:03:14.120 INF Close database
+29-08-2020 12:03:14.120 INF Shutdown server
+29-08-2020 12:03:17.555 INF Start Application
+29-08-2020 12:03:17.556 INF Connect to database
+29-08-2020 12:03:17.711 INF Running Server :9000
+29-08-2020 12:04:19.317 INF user=foo@dev.com host=localhost:9000 method=POST url=/products/ status=200 time=86.7666ms bytes=262
+29-08-2020 12:05:26.411 INF user=foo@dev.com host=localhost:9000 method=POST url=/products/ status=404 time=997.2µs bytes=58
+29-08-2020 12:06:22.789 INF user=foo@dev.com host=localhost:9000 method=POST url=/products/ status=200 time=2.9921ms bytes=262
+29-08-2020 12:06:52.136 INF user= host=localhost:9000 method=GET url=/products/ status=401 time=0s bytes=71
+29-08-2020 12:07:19.521 INF user=foo@dev.com host=localhost:9000 method=GET url=/products/ status=200 time=998.1µs bytes=2
+29-08-2020 12:07:22.119 INF user=foo@dev.com host=localhost:9000 method=GET url=/products/ status=200 time=997.2µs bytes=2
+29-08-2020 12:50:29.668 INF Close database
+29-08-2020 12:50:29.681 INF Shutdown server
+29-08-2020 12:50:32.186 INF Start Application
+29-08-2020 12:50:32.187 INF Connect to database
+29-08-2020 12:50:32.339 INF Running Server :9000
+29-08-2020 12:51:14.866 INF user=foo@dev.com host=localhost:9000 method=POST url=/products/ status=200 time=102.7254ms bytes=262
+29-08-2020 12:51:48.467 INF user=foo@dev.com host=localhost:9000 method=POST url=/products/ status=409 time=998µs bytes=53
+29-08-2020 12:52:07.957 INF user=foo@dev.com host=localhost:9000 method=GET url=/products/ status=200 time=996.8µs bytes=260
+29-08-2020 12:54:01.284 INF user=foo@dev.com host=localhost:9000 method=POST url=/products/ status=200 time=2.992ms bytes=254
+29-08-2020 12:54:18.291 INF user=foo@dev.com host=localhost:9000 method=GET url=/products/ status=200 time=997.2µs bytes=513
